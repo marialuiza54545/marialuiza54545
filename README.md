@@ -5,10 +5,10 @@
 - 😄 estou animada para aprender
 - ⚡#alura
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> amei esse aplicativo.
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> gosto de aprender.
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
