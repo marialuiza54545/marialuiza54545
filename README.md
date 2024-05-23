@@ -4,6 +4,14 @@
 - 💞️ .gosto de filmes
 - 😄 estou animada para aprender
 - ⚡#alura
+
+
+
+![](https://media.tenor.com/ZqOOD0RailUAAAAi/feelsrainman-rain.gif)
+
+
+
+
 > [!NOTE]
 > amei esse aplicativo.
 
