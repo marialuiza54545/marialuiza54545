@@ -11,10 +11,10 @@
 > gosto de aprender.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> sou nova
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> estudante do alura
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> #alura
